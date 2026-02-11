@@ -41,7 +41,6 @@ Concepts
 
 Here are some of the things I’ve worked on:
 	•	🧮 Algorithms & Data Structures – sorting, searching, recursion
-	•	🔐 Cybersecurity practice – system concepts & security basics
 	•	📊 University projects – programming & problem-solving assignments
 	•	🌐 Web projects – HTML/CSS/JS based apps
 
