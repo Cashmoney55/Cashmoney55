@@ -22,6 +22,7 @@ Languages
 	•	C
 	•	JavaScript
 	•	HTML / CSS
+	.   SQL
 
 Tools & Technologies
 	•	Git & GitHub
