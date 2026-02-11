@@ -1,7 +1,6 @@
 👋 Hi, I’m Teddy
 
 🎓 Computer Science Student @ DCU
-🔐 Aspiring Cybersecurity Professional
 💻 Passionate about coding, problem-solving & building real-world projects
 
 ⸻
