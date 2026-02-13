@@ -22,6 +22,7 @@ Languages
 	•	JavaScript
 	•	HTML / CSS
 	.   SQL
+	.   Java
 
 Tools & Technologies
 	•	Git & GitHub
